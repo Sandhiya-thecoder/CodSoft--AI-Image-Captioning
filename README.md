@@ -10,6 +10,7 @@ This project beautifully blends <b>Computer Vision</b> 🧠 and <b>Natural Langu
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Level-Basic%20Python%20Completed-brightgreen">
+  <img src="https://img.shields.io/badge/Status-Completed%20Completed-blue">
   <img src="https://img.shields.io/badge/AI-Image%20Captioning-orange">
 </p>
 
